@@ -1,0 +1,38 @@
+#include<stdio.h>
+#include<math.h>
+
+int recursivit_re(int n){
+	if(n == 0){
+
+
+		return 0;
+	}
+
+	else{
+	
+	
+	return sqrt(n) + recursivit_re(n - 1);
+	
+	}
+
+
+}
+
+int recursivit_for(int n){
+	int s = 0, i;
+
+	for(i = 0; i < n; i++){
+
+		s+= sqrt(i);
+	
+	}
+	return s;
+
+}
+
+
+
+int main(void){
+	//printf("%d",recursivit_re(144));
+	printf("%d", recursivit_for(144));
+}

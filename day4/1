@@ -1,0 +1,19 @@
+#include<stdio.h>
+
+
+int main(void){
+
+
+printf("---------------------------\n");
+
+printf("-");
+printf("-inserez votre cerveau ici-\n");
+printf("-si vous en avez           -\n");
+printf("-voici verifiez si vous en -\n -             avez : rien-\n");
+printf("---------------------------");
+
+
+
+
+
+}

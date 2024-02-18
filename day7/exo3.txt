@@ -1,0 +1,4 @@
+La programmation impérative, c'est chouette !
+Le langage C est un super langage.
+Nous sommes heureux de faire du C et non du Python.
+Nous allons tous très bien réussir ce cours.

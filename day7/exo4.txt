@@ -1,0 +1,8 @@
+la licence informatique & vidéoludisme est unique dans le paysage français.
+en plus de sa mineure “conception et programmation de jeux vidéo” qui lui donne son nom d'emprunt
+(puisqu'en realite, elle s'appelle sobrement “licence informatique”), elle se distingue des autres
+licences d'informatique sur plusieurs points importants. contrairement à ce qui se pratique dans la
+plupart des etablissements d'enseignement superieurs, la premiere année de notre licence n'est pas
+un “portail scientifique”. chez nous commencent des etudes à 100% en informatique des la premiere annee.
+concretement, les etudiant·es qui sortent de notre licence ont fait de l'informatique pendant un an
+de plus que les autres a leur arrivee en master.
